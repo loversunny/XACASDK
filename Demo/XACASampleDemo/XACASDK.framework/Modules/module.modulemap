@@ -1,0 +1,6 @@
+framework module XACASDK {
+  umbrella header "XACASDK.h"
+
+  export *
+  module * { export * }
+}
